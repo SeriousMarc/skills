@@ -9,6 +9,7 @@ description: >
   vector DB, agent framework, etc). In plan mode or at project start, always consult this
   skill first before suggesting any technology. Applies to both pure backend projects and
   AI/LLM/agentic projects.
+disable-model-invocation: true
 ---
 
 # Python Stack 2026
